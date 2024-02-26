@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Hacker%20Typer%20👨‍💻&width=800&height=400)](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Bladimir%Castro%20👨‍💻&width=800&height=400)](https://github.com/Akshay090/svg-banners)
 <!--
 **blad232/blad232** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
