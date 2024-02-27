@@ -24,6 +24,17 @@ Hello! I'm Bladimir Castro, a web developer passionate about crafting great digi
 - <img  src="https://badgen.net/badge/color/JAVASCRIPT/yellow?label="> (In Process...)
 
 
+
+### Currently 
+I like to get out of my comfort zone and experiment new things.
+<br>
+I'm self-studying, focused on creating custom projects.
+<br>
+Learning JavaScript in detail.
+<br>
+Seeking for new ways to get things done.
+
+
   
 
 <br>
