@@ -11,24 +11,28 @@
 ## **ABOUT ME** ℹ️
 Hello! I'm Bladimir Castro, a web developer passionate about crafting great digital experiences. I have decent level in HTML and CSS and am currently expanding my skills in JavaScript.
 
+<br>
+
 
 
 
 ### Skills 🚀
-- HTML 
-- CSS
-- JavaScript (Currently learning)
+- <img src="https://img.shields.io/badge/HTML5-FF5733">
+- <img src="https://img.shields.io/badge/CSS3-3498DB">
+- <img  src="https://badgen.net/badge/color/JAVASCRIPT/yellow?label="> (In Process...)
+
+
   
 
-
+<br>
 
 
 ## **Let's Connec** 📬
-I'm always eager to learn and collaborate on exciting projects! If you have any questions or want to team up, feel free to reach out:
+I'm always eager to learn and collaborate on exciting projects! If you have any questions or want to team up, feel free to reach out
 
 - Email 📩: 
 - LinkedIn 🌐:
 - GitHub ✨: 
-
-
+<br>
+<br>
 Thanks for visiting! 👋
