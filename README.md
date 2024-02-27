@@ -1,8 +1,10 @@
 <p align="center">
   <a href="https://github.com/Akshay090/svg-banners">
-    <img src="https://svg-banners.vercel.app/api?type=typeWriter&text1=Bladimir%20Castro%20💻&width=800&height=150" alt="SVG Banners">
+    <img src="https://svg-banners.vercel.app/api?type=typeWriter&text1=Bladimir%20Castro%20💻&width=1000&height=150" alt="SVG Banners">
   </a>
 </p>
+<br>
+<br>
 
 # Bladimir Castro💼
 
