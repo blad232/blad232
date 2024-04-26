@@ -59,9 +59,12 @@ Seeking for new ways to get things done.
 ## **Let's Connec** 📬
 I'm always eager to learn and collaborate on exciting projects! If you have any questions or want to team up, feel free to reach out
 
-- Email 📩: 
-- LinkedIn 🌐:
-- GitHub ✨: 
+
+[![My Skills](https://skillicons.dev/icons?i=gmail,linkedin,github&theme=light&perline=1)](https://skillicons.dev)
+ 
 <br>
 <br>
-Thanks for visiting! 👋
+
+
+  Thanks for visiting! 👋
+
