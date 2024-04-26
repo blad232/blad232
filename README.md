@@ -34,9 +34,9 @@ Hello! I'm Bladimir Castro, a web developer passionate about crafting great digi
 
 
 ### Skills 🚀
-- <img src="https://img.shields.io/badge/HTML5-FF5733">
-- <img src="https://img.shields.io/badge/CSS3-3498DB">
-- <img  src="https://badgen.net/badge/color/JAVASCRIPT/yellow?label="> (In Process...)
+[![My Skills](https://skillicons.dev/icons?i=html,css,vscode,windows,git,github&perline=3)](https://skillicons.dev)<br/>
+[![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)  (In Process...)
+
 
 
 
