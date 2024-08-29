@@ -36,8 +36,15 @@ Hello! I'm Bladimir Castro, a web developer passionate about crafting great digi
 
 
 ### Skills 🚀
-[![My Skills](https://skillicons.dev/icons?i=html,css,vscode,windows,git,github&perline=3)](https://skillicons.dev)<br/>
-[![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)  (In Process...)
+[![My Skills](https://skillicons.dev/icons?i=html)](https://www.w3schools.com/html/)
+[![My Skills](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/es/docs/Web/CSS)
+[![My Skills](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)<br/>
+[![My Skills](https://skillicons.dev/icons?i=windows)](https://www.microsoft.com/es-es/windows?r=1)
+[![My Skills](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
+[![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/)<br/>
+[![My Skills](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/es/docs/Web/JavaScript)
+[![My Skills](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/en)
+(In Process...)
 
 
 
